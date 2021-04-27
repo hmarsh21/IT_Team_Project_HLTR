@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Contact Us</title>
+<link rel="stylesheet" href="../css/test.css"/>
+<style>
+body {
+background-image:url("../images/marblebackground.jpg");
+}
+
+article
+{
+width:94%;
+}
+</style>
+
+
+</head>
+<body>
+<div class="container">
+<header>
+	<img src="../images/cozycornercafe.jpg" alt="banner" style="width:1100px;height:350px;" />
+<nav>
+	<ul>
+	<li><a href="../index.html">Home Page</a></li>
+	<li><a href="our_story.html">Our Story</a></li>
+	<li><a href="menu.html">Menu</a></li>
+	<li><a href="contact_us.html">Contact Us</a></li>
+	<li><a href="cafe_catering.html">Cafe Catering</a></li>
+	<li><a href="careers.html">Careers</a></li>
+	<li><a href="cafe_specials.html">Current Specials</a></li>
+	</ul>
+</nav>
+</header>
+<article>
+	<h2>Contact us!</h2>
+
+	<form id="contact_us" method="post" action="http://amgilder.wcit.cs.unh.edu/cgi-bin/test403">
+	<p><label for="name">Your Name:</label> 
+	<input name="name" id="name" type="text" />
+    <label for="email">Email:</label> 
+    <input name="email" id="email" type="text" /></p>
+    
+    <p><label for="order">Are you satisfied with your order?</label>
+                  <select name="order" id="order">
+                     <option>Yes! It was delicious!</option>
+                     <option>No, my order was wrong.</option>
+                     <option>Messed up part of my order.</option>
+                  </select></p>
+    <fieldset>           
+      <legend>How did you pay?</legend>
+               <input name="online" id="onlineo" type="radio" value="online" checked="checked" />
+               <label for="onlineo">Online</label><br />
+               <input name="online" id="onlinei" type="radio" value="inperson" />          
+       			<label for="onlinei">In Store</label>
+       		</fieldset>
+       		
+	<p>Message:<br />
+	<textarea name="message" rows="3" cols="50"> </textarea></p>
+		
+	<p><input type="submit" value="submit" /></p>
+
+</form>
+</article>
+</div>
+</body>
+
+
+</html>
