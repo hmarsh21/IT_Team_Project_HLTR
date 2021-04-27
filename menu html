@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Cozy Corner Menu</title>
+	<meta charset="utf-8"/>
+<link rel="stylesheet" href="../css/test.css"/>
+<style>
+body{
+background-image:url("../images/whitetile.jpg");
+}
+
+aside
+{
+text-align: center;
+border: double;
+}
+nav
+{
+position: fixed;
+
+}
+</style>
+
+</head>
+<body>
+	
+<div class="container">	
+<header>
+<img src="../images/menu.png" alt="menu" style="width:1100px;height:350px;"/>
+<nav>
+	<ul>
+	<li><a href="../index.html">Home Page</a></li>
+	<li><a href="our_story.html">Our Story</a></li>
+	<li><a href="menu.html">Menu</a></li>
+	<li><a href="contact_us.html">Contact Us</a></li>
+	<li><a href="cafe_catering.html">Cafe Catering</a></li>
+	<li><a href="careers.html">Careers</a></li>
+	<li><a href="cafe_specials.html">Current Specials</a></li>
+	</ul>
+</nav>
+</header>
+<article>	
+	<p>SMOOTHIE MENU 16oz &#45; &#36;6.00, 24oz &#45; &#36;7.50, Bowl &#45; &#36;9.00<br>
+	All Smoothies can be served as Smoothie Bowls as well, topped with Homemade Granola, Strawberries, and Bananas.</p>
+<figure>
+	<img src="../images/chocolatesmoothie.jpg" alt="choco" style="width:200px;height:250px;"/>
+</figure>
+	<ul>
+		<li>Tropical Sunrise
+			<ul>
+				<li>Strawberry</li>
+				<li>Raspberry</li>
+				<li>Pineapple</li>
+				<li>Orange Juice</li>
+			</ul>
+		</li>
+		<li>Choco Loco
+			<ul>
+				<li>Banana</li>
+				<li>Chocolate Protein Powder</li>
+				<li>Peanut Butter</li>
+				<li>Almond Milk</li>
+			</ul>
+		</li>
+		<li>Super Acai
+			<ul>
+				<li>Acai</li>
+				<li>Banana</li>
+				<li>Almond Milk</li>
+			</ul>
+		</li>
+		<li>Extra Toppings/Blend-Ins
+			<ul>
+				<li>Peanut Butter Drizzle</li>
+				<li>Nutella Drizzle</li>
+				<li>Raspberries</li>
+				<li>Blueberries</li>
+				<li>Cacao Nibs</li>
+				<li>Hemp Hearts</li>
+			</ul>
+		</li>
+	</ul>
+
+<p>Toast Menu: All items can be served on Sourdough, Bagel, or Wrap - &#36;6.00</p>
+<figure>
+<img src="../images/toastpic.jpg" alt="yummy toast" style="width:200px;height:250px;"/>
+</figure>
+<ul>
+		<li>The Classic: 
+			<ul>
+				<li>Avocado</li>
+				<li>Egg</li>
+				<li>Cherry Tomatoes</li>
+				<li>Feta Cheese</li>
+			</ul>
+		</li>
+		<li>Sweet Tooth
+			<ul>
+				<li>Nutella</li>
+				<li>Strawberries</li>
+				<li>Granola</li>
+			</ul>
+		</li>
+		<li>PB All The Way
+			<ul>
+				<li>Peanut Butter</li>
+				<li>Banana</li>
+				<li>Granola</li>
+				<li>Honey Drizzle</li>
+			</ul>
+		</li>
+</ul>
+
+<h3>We have the <strong>BEST</strong> coffee!</h3>
+<p>We have Hot and Iced Brewed Coffee as well as Espresso and Nitro Cold Brew!</p>
+<figure>
+<img src="../images/coffeepic.jpg" alt="coffee" style="width:200px;height:250px;"/>
+</figure>
+<ul>
+	<li>Ice/Hot Coffee On Tap 160z - &#36;2.75
+			<ul>
+				<li>French Vanilla</li>
+				<li>Hazelnut</li>
+				<li>Mocha</li>
+				<li>Caramel</li>
+			</ul>
+	</li>
+</ul>
+</article>
+<aside>
+<p>Read Here to learn more about the benefits of Smoothies!</p>
+<a href="https://thatsmyjamok.com/23-important-benefits-of-drinking-healthy-smoothies/">23 BENEFITS OF DRINKING SMOOTHIES!</a>
+<p>Do you every just want to sit in a cozy cafe alone to get some work done with a nice cup of coffee and a snack? It is proven that people do their best work in cafes! Read more about how here!</p>
+<a href="https://www.newscientist.com/article/2090717-do-you-get-your-best-work-done-in-coffee-shops-heres-why/">Why you should come to Cozy Corner!</a>
+<p>Have to get work done, but you are exhausted? Come to Cozy Corner to get the best coffee! Look here at why drinking coffee is beneficial!</p>
+<a href="https://www.healthline.com/nutrition/top-13-evidence-based-health-benefits-of-coffee">Why Drinking Coffee is Beneficial</a>
+</aside>
+<footer>
+<h2>How to Contact us!</h2>
+	<ol>
+		<li>Check out our website for specific links</li>
+		<li>Write an email to us!</li>
+		<li>Get one of our smoothies or a coffee in the mean time while we answer!</li>
+		<li>Follow Tori on instagram &#64;tpalumbo&#50;</li>
+	</ol>
+</footer>
+</div>
+</body>
+</html>
