@@ -35,7 +35,16 @@ width: 94%;
 </header>
 <article>
 	<h2>Some of our best products</h2>
-	
+	<img src="images/1.jpg" alt="Food 1" style="width:300px;height:350px;"/>
+	<img src="images/2.jpg" alt="Food 2" style="width:300px;height:350px;"/>
+	<img src="images/3.jpg" alt="Food 3" style="width:300px;height:350px;"/>
+	<img src="images/4.jpg" alt="Food 4" style="width:300px;height:350px;"/>
+	<img src="images/5.jpg" alt="Food 5" style="width:300px;height:350px;"/>
+	<img src="images/6.jpg" alt="Food 6" style="width:300px;height:350px;"/>
+	<img src="images/7.jpg" alt="Food 7" style="width:300px;height:350px;"/>
+	<img src="images/8.jpg" alt="Food 8" style="width:300px;height:350px;"/>
+	<img src="images/9.jpg" alt="Food 9" style="width:300px;height:350px;"/>
+	<img src="images/10.jpg" alt="Food 10" style="width:300px;height:350px;"/>
 	
 	<h4>Here is our Social media</h4>
 	<p>https://www.facebook.com/marshbrothersdeli/<br> 
